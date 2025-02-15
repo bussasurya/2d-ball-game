@@ -1,3 +1,11 @@
+echo "Library/
+Logs/
 Temp/
-Temp/
-Temp/
+obj/
+*.csproj
+*.sln
+.vscode/
+UserSettings/
+ProjectSettings/
+Packages/
+" > .gitignore

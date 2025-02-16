@@ -1,11 +1,12 @@
-echo "Library/
-Logs/
+# Unity specific files to ignore
+Library/
 Temp/
+Logs/
 obj/
-*.csproj
+.DS_Store
 *.sln
-.vscode/
-UserSettings/
-ProjectSettings/
+*.userprefs
 Packages/
-" > .gitignore
+UserSettings/
+.vscode/
+ProjectSettings/

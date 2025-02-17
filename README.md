@@ -26,7 +26,7 @@ Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests with improvements.
 
 Contact
-For questions or feedback, please contact me at your.email@example.com.
+For questions or feedback, please contact me at suryabussa12@gmail.com.
 
 Enjoy the game!
 

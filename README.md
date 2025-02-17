@@ -10,7 +10,7 @@ A Unity 2D game where a dynamic ball interacts with rotating rings. The gameplay
 ## Installation
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/2d-ball-game.git
+   git clone https://github.com/bussasurya/2d-ball-game.git
 Open in Unity:
 Open the cloned project with Unity 
 Open in Unity:
